@@ -26,7 +26,6 @@ A secure crypto payment system that allows users to pay rent or make deposits us
    npm install
 ```
 - Run on localhost:<br/>
-
 ```
    npm start
 ```
