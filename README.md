@@ -18,15 +18,14 @@ A secure crypto payment system that allows users to pay rent or make deposits us
 ### Getting Started
 - OS:<br/>
   Mac, Linux, Windows<br/>
-    \*This project works best on macOS. If you encounter any problems while using other operating systems, please contact the administrator.
+  This project works best on macOS. If you encounter any problems while using other operating systems, please contact the administrator.
 - Prerequirements:<br/>
   Node v20.x.x, Google Chrome
 - Install Dependecies:<br/>
 ```
    npm install
 ```
-
--  Run on localhost:<br/>
+- Run on localhost:<br/>
 
 ```
    npm start
